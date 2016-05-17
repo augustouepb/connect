@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-list>
+	<entry>
+		<meta-data>
+			<meta name="personal-id">49</meta>
+			<meta name="HANDLE">1</meta>
+		</meta-data>
+		<compound>
+			<name>Numeric</name>
+			<entries>
+				<entry>
+					<meta-data>
+						<meta name="partition">2</meta>
+						<meta name="metric-id">57664</meta>
+						<meta name="unit-code">1731</meta>
+						<meta name="unit">kg</meta>
+					</meta-data>
+					<simple>
+						<name>Simple-Nu-Observed-Value</name>
+						<type>float</type>
+						<value>4.500000</value>
+					</simple>
+				</entry>
+				<entry>
+					<compound>
+						<name>Absolute-Time-Stamp</name>
+						<entries>
+							<entry>
+								<simple>
+									<name>century</name>
+									<type>intu8</type>
+									<value>20</value>
+								</simple>
+							</entry>
+							<entry>
+								<simple>
+									<name>year</name>
+									<type>intu8</type>
+									<value>17</value>
+								</simple>
+							</entry>
+							<entry>
+								<simple>
+									<name>month</name>
+									<type>intu8</type>
+									<value>1</value>
+								</simple>
+							</entry>
+							<entry>
+								<simple>
+									<name>day</name>
+									<type>intu8</type>
+									<value>9</value>
+								</simple>
+							</entry>
+							<entry>
+								<simple>
+									<name>hour</name>
+									<type>intu8</type>
+									<value>4</value>
+								</simple>
+							</entry>
+							<entry>
+								<simple>
+									<name>minute</name>
+									<type>intu8</type>
+									<value>27</value>
+								</simple>
+							</entry>
+							<entry>
+								<simple>
+									<name>second</name>
+									<type>intu8</type>
+									<value>0</value>
+								</simple>
+							</entry>
+							<entry>
+								<simple>
+									<name>sec_fractions</name>
+									<type>intu8</type>
+									<value>0</value>
+								</simple>
+							</entry>
+						</entries>
+					</compound>
+				</entry>
+			</entries>
+		</compound>	
+	</entry>
+</data-list>

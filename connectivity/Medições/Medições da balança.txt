@@ -1,0 +1,71 @@
+	-----------Configurations-----------
+Numeric
+	 Unit: 1731
+
+Numeric
+	 Unit: 1297
+
+Numeric
+	 Unit: 1952
+
+Numeric
+	 Unit: 544
+
+Numeric
+	 Unit: 6784
+
+Numeric
+	 Unit: 544
+
+Numeric
+	 Unit: 2368
+
+Numeric
+	 Unit: 544
+
+Numeric
+	 Unit: 512
+
+Numeric
+	 Unit: 512
+
+	-----------Attributes-----------
+
+Manufacturer: OMRON HEALTHCARE
+
+Model: HBF-206IT
+
+System ID: 002209225807E86B
+
+Specializations: 100f
+	-----------Measurements-----------
+unit-code 1731
+6.900000 kg
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 1297
+173.000000 cm
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 1952
+0.000000 kg m-2
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 544
+0.000000 %
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 6784
+0.000000 cal
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 544
+0.000000 %
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 2368
+0.000000 y
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 544
+(0.000000, 0.000000, 0.000000, 0.000000) %
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 512
+0.000000 
+Date: 09.01.2017 Time: 03:24:00.000
+unit-code 512
+(1.000000, 24.000000) 
+Date: 09.01.2017 Time: 03:24:00.000

@@ -1,0 +1,29 @@
+	-----------Configurations-----------
+Numeric
+	 Unit: 3872
+
+Numeric
+	 Unit: 2720
+
+Numeric
+	 Unit: 512
+
+	-----------Attributes-----------
+
+Manufacturer: OMRON HEALTHCARE
+
+Model: HEM-7081-IT
+
+System ID: 00220922580803CC
+
+Specializations: 1007
+	-----------Measurements-----------
+unit-code 3872
+(125.000000, 77.000000, 93.000000) mmHg
+Date: 05.03.2016 Time: 16:50:40.000
+unit-code 2720
+68.000000 bpm
+Date: 05.03.2016 Time: 16:50:40.000
+unit-code 512
+0.000000 
+Date: 05.03.2016 Time: 16:50:40.000

@@ -1,0 +1,27 @@
+	-----------Configurations-----------
+Numeric
+	 Unit: 544
+
+Numeric
+	 Unit: 2720
+
+	-----------Attributes-----------
+
+Manufacturer: 
+
+Model: 
+
+System ID: 1133557799BBDDFF
+
+Specializations: 
+	-----------Measurements-----------
+96.500000 %
+63.500000 bpm
+
+	-----------Measurements-----------
+95.500000 %
+77.500000 bpm
+
+	-----------Measurements-----------
+95.500000 %
+73.500000 bpm
